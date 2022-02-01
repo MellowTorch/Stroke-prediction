@@ -33,8 +33,8 @@ has had a stroke.
 **BMI and Average Glucose Levels**
 
 ![Chart, scatter chart Description automatically
-generated](media/Picture1.png)An important graph to
-consider in this data set is the BMI vs Average Glucose Level since these are
+generated](media/Picture1.png)
+An important graph to consider in this data set is the BMI vs Average Glucose Level since these are
 the two variables that relate that can vary.
 
 I have applied K-mean clustering to this scatter plot graph. Using k = 3. As we
@@ -69,8 +69,7 @@ higher chance of a stroke. However, your AGL can represent a chance of a
 stroke.**
 
 ![Chart Description automatically
-generated](media/ab5481ff1a28e4b7ea23921bb7b07842.png)![Chart Description
-automatically generated](media/741bde271a20fd1ea470591913661eac.png)
+generated](media/Picture3.png)
 
 We have provided multiple views of the same diagram to better show the
 centroids.
@@ -89,11 +88,7 @@ We used Logistic Regression and Gradient Boosting since they preform the best in
 a smaller dataset.
 
 ![Text Description automatically
-generated](media/694068dc30d6ceb9dc9e4f6a1465a7fb.png)![Text Description
-automatically generated](media/d750fffe1294e7cecbab096cad990f13.png)![Text,
-letter Description automatically
-generated](media/def5b4ed0f6ef7ad7f9b3e49bd3a381b.png)These were the results of
-the test:
+generated](media/Picture6.png)
 
 It seems that the neutral network was fairly accurate in predicting stroke. Also
 reviewing the stoke percentage, it is very low to begin with, so this is more or
@@ -121,13 +116,4 @@ Gradient boosting.
 # Figure Page
 
 ![Chart, pie chart Description automatically
-generated](media/a27a91bc76765e8864c936e3b9b97626.png)![Chart, pie chart
-Description automatically
-generated](media/eec4524dce09c6640c9a7a9dcbadac4c.png)![Chart, pie chart
-Description automatically
-generated](media/b40846883b91c050760cb2779ffd9843.png)![Chart, pie chart
-Description automatically
-generated](media/c1634686c8e6ff5a4b28145b641a9d46.png)![Chart, bar chart
-Description automatically
-generated](media/ce4412866861f786bcaae0b19f629926.png)![Chart, histogram
-Description automatically generated](media/bf11d4a3908d3f08a3fc921a89b15e9b.png)
+generated](media/Picture7.png)
