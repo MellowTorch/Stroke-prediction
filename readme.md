@@ -1,4 +1,4 @@
-Term Project
+# Term Project
 
 **Intro**
 
@@ -11,7 +11,7 @@ also, ultimately see if it is possible to train neural networks to predict
 someone having a stroke according to the different variables given in the
 dataset.
 
-**Dataset**
+### **Dataset**
 
 This dataset was incomplete there were some holes in place of the data, thus
 would not work unless filled or removed from the dataset. Within the BMI column
@@ -30,9 +30,9 @@ might skew the data little as well) . And lastly out of this group 4.87% of them
 has had a stroke.   
 *(See figures 1-6 on figures page)*
 
-**BMI and Average Glucose Levels**
+### **BMI and Average Glucose Levels**
 
-<img src="media/Picture1.png" height="330" width="900">
+<img src="media/Picture1.png" height="330" width="950">
 
 An important graph to consider in this data set is the BMI vs Average Glucose Level since these are
 the two variables that relate that can vary.
@@ -74,7 +74,7 @@ generated](media/Picture3.png)
 We have provided multiple views of the same diagram to better show the
 centroids.
 
-**Training the data**
+### **Training the data**
 
 Now using the data in the dataset, we will try to create neural network to try
 predicting strokes.   
@@ -94,7 +94,7 @@ It seems that the neutral network was fairly accurate in predicting stroke. Also
 reviewing the stoke percentage, it is very low to begin with, so this is more or
 less correct.
 
-**Problems**
+### **Problems**
 
 An issue I came across was how to represent the data, I took a lot of time
 looking through the matplotlib documentation to get things working correctly. I
@@ -104,7 +104,7 @@ As mentioned before filling in the blank data points may contribute to some
 inaccuracy. Also, the unknown smoking status may also contribute to inaccuracy
 of the smokers affect on strokes, thus I didn’t go into depth with that portion.
 
-**Summary**
+### **Summary**
 
 According to our graph and k-mean cluster we can see that BMI does not relate to
 stroke chances however, as seen if the average glucose level is too high or too
@@ -113,7 +113,7 @@ low the chance for a stroke increase. We also can see that our neural network on
 status” can successfully be predict strokes using Logistic regression and
 Gradient boosting.
 
-# Figure Page
+### Figure Page
 
 ![Chart, pie chart Description automatically
 generated](media/Picture7.png)
