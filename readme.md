@@ -34,6 +34,7 @@ has had a stroke.
 
 ![Chart, scatter chart Description automatically
 generated](media/Picture1.png)
+
 An important graph to consider in this data set is the BMI vs Average Glucose Level since these are
 the two variables that relate that can vary.
 
