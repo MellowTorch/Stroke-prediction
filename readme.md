@@ -33,7 +33,7 @@ has had a stroke.
 **BMI and Average Glucose Levels**
 
 ![Chart, scatter chart Description automatically
-generated](media/180aeec9baecc92bd16156c6610fbc86.png)An important graph to
+generated](media/Picture1.png)An important graph to
 consider in this data set is the BMI vs Average Glucose Level since these are
 the two variables that relate that can vary.
 
@@ -44,7 +44,7 @@ to be correct since BMI is not an accurate representation of a person's health
 overall*. (See next page for figure)*
 
 ![Chart, scatter chart Description automatically
-generated](media/dd587aadb1e1ab392ac3cf0d3c7a3fc5.png)
+generated](media/Picture2.png)
 
 Now we must relate these variables to strokes and see weather either of these
 variables attribute to strokes. To do this I have used a 3D scatter plot to add
