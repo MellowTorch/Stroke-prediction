@@ -32,8 +32,7 @@ has had a stroke.
 
 **BMI and Average Glucose Levels**
 
-![Chart, scatter chart Description automatically
-generated](media/Picture1.png  =900x270)
+<img src="media/Picture1.png" height="900" width="270">
 
 An important graph to consider in this data set is the BMI vs Average Glucose Level since these are
 the two variables that relate that can vary.
